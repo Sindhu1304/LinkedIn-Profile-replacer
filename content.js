@@ -1,4 +1,4 @@
-const newUrl = "https://github.com/Sindhu1304/image.git"; // new image
+const newUrl = "https://raw.githubusercontent.com/Sindhu1304/Profile-Image/master/peace.png"; // new image
 
 let profileCtr = 0;
 let pfps;
