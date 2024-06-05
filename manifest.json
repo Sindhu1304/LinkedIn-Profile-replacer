@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "LinkedIn Profile Picture Replacer",
+    "version": "1.0.1",
+    "description": "A Chrome extension that replaces profile pictures on the LinkedIn homepage with a specified image.",
+    "permissions": ["activeTab", "scripting"],
+
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "48": "images/icon-48.png",
+        "64": "images/icon-64.png",
+        "128": "images/icon-128.png"
+    }
+}
